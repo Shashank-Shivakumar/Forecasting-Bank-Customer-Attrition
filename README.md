@@ -1,4 +1,3 @@
-# DATS6103_10_Group_5
 # Predicting Customer Churn for a Bank
 
 **Research Topic:**
@@ -35,5 +34,3 @@ and the AUC-ROC curve. Feature importance and model interpretability will also b
 our analysis.
 
 **Data Source:** Kaggle(https://www.kaggle.com/code/thomaskonstantin/bank-churn-data-exploration-and-churn-prediction)
-
-**GitHub Repo:** https//github.com/Shashank-Shivakumar/DATS6103_10_Group_5
