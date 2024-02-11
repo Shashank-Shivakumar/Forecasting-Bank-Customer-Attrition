@@ -1,4 +1,4 @@
-# Predicting Customer Churn for a Bank
+# Forecasting Bank Customer Attrition
 
 **Research Topic:**
 Customer retention is vital for any business, and the banking sector is no exception. With the rise of
